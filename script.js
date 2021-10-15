@@ -1,5 +1,5 @@
 // richiesta numero utente
-let numeroUtente = (isNaN(parseInt(prompt("inserisci numero:"))));
+let numeroUtente = (parseInt(prompt("inserisci numero:")));
 
 
 // se è pari stampa il numero
