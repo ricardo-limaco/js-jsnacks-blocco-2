@@ -3,7 +3,7 @@ const array2 = [5];
 const numero = 9;
 
 // creo ciclo for del Array1
-for (i = 0; i < array1.length; i++) {
+for (i = 1; i < array1.length; i++) {
   // Creo variabile di array[1]
   const incremento = array1[i]
 
